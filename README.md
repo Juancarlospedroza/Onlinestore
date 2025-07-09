@@ -5,3 +5,6 @@ Evaluación de Prueba A/B para una tienda online:
 En conjunto con el equipo de márketing se realizó una prueba A/B, analicé los resultados y descubrí qué grupo tuvo más ventas a lo largo del tiempo que duró la prueba. Y posteriormente realicé una prueba estadística para verificar si existía una diferencia estadísticamente significativa entre los grupos.
 
 
+
+
+![newplot](https://github.com/user-attachments/assets/d5a92d64-3995-4ba2-8bde-c0a261c117f4)
